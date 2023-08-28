@@ -1,3 +1,6 @@
+Frontend - React , Tailwind
+Backend - Node , Express
+
 Layout - 
 ![Initial](https://github.com/ujjwal2512/Business-Loan/assets/61770678/d361eedb-b2c6-40f9-9756-25acbc6d4c69)
 
