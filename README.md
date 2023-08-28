@@ -1,4 +1,4 @@
-Frontend - React , Tailwind
+Frontend - React , Tailwind || 
 Backend - Node , Express
 
 Layout - 
